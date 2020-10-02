@@ -8,6 +8,12 @@ public class Trade {
     private Integer quantity;
     private Double price;
 
+    public Trade(TradeType type, Integer quantity, Double price) {
+        this.setType(type);
+        this.setQuantity(quantity);
+        this.setPrice(price);
+    }
+
     public TradeType getType() {
         return type;
     }
@@ -30,12 +36,6 @@ public class Trade {
 
     public void setPrice(Double price) {
         this.price = price;
-    }
-
-    public Trade(TradeType type, Integer quantity, Double price) {
-        this.setType(type);
-        this.setQuantity(quantity);
-        this.setPrice(price);
     }
 
     @Override

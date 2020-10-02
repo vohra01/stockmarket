@@ -2,8 +2,8 @@
 
 #Notes
 
-* Written in Java, C#
-* No database or GUI is used, all data is held in memory
+* Written in Java
+* No database or UI is used, all data is held in memory
 
 #How to use:
 This is a maven project, use goals:
@@ -18,8 +18,19 @@ To run the program just run:
 #Classes
 * App -> Just a sample app using the main classes Stock
 * AllStocks -> Class used to calculate the All Share Index
-* Stock -> Class used to manage the operations against the stocks
-* Trade -> Just a bean representing each trade
+* Stock -> Class to manage operations against every stock
+* Trade -> Just a POJO representing each trade
 
 #Packages
 * com.kunal.assignments.stockmarket 
+
+#Code Coverage
+
+![Alt text](src/main/resources/outputImages/Screen Shot 2020-10-02 at 5.10.27 PM?raw=true "Test Coverage")
+
+#Sample Output
+
+![Alt text](src/main/resources/outputImages/Screen Shot 2020-10-02 at 5.12.49 PM?raw=true "ABC STock Operations")
+
+
+
