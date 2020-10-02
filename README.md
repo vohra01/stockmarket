@@ -26,11 +26,11 @@ To run the program just run:
 
 #Code Coverage
 
-![Alt text](src/main/resources/outputImages/Screen Shot 2020-10-02 at 5.10.27 PM?raw=true "Test Coverage")
+![Alt text](src/main/resources/outputImages/Screen Shot 2020-10-02 at 5.10.27 PM.png?raw=true "Test Coverage")
 
 #Sample Output
 
-![Alt text](src/main/resources/outputImages/Screen Shot 2020-10-02 at 5.12.49 PM?raw=true "ABC STock Operations")
+![Alt text](src/main/resources/outputImages/Screen Shot 2020-10-02 at 5.12.49 PM.png?raw=true "ABC STock Operations")
 
 
 
